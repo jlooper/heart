@@ -13,7 +13,7 @@
     }
   },
   "dependencies": {
-    "nativescript-lottie": "^1.1.1",
+    "nativescript-lottie": "^1.1.2",
     "nativescript-theme-core": "~1.0.2",
     "tns-core-modules": "2.5.0"
   },

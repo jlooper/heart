@@ -6,6 +6,6 @@
     </Page.actionBar>
         <StackLayout>
             <Label class="h2" textWrap="true" text="You make my heart go pitter-patter!"></Label>
-            <Lottie:LottieView src="heart.json" height="500" loop="true" autoPlay="true" loaded="lottieLoaded" />
+            <Lottie:LottieView src="heart.json" loop="true" autoPlay="true" loaded="lottieLoaded" />
         </StackLayout>
 </Page>
