@@ -1,0 +1,7 @@
+﻿
+@import 'nativescript-theme-core/css/ruby.css';
+
+.h2 {
+    text-align:center;
+    color: mediumpurple;
+}

@@ -1,0 +1,12 @@
+//default elements
+android {
+    productFlavors {
+        "F0" {
+            dimension "nativescriptlottie"
+        }
+    }
+}
+
+dependencies {
+     compile "com.airbnb.android:lottie:1.0.0"
+}
